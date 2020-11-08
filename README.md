@@ -9,8 +9,5 @@ A passionate software developer with 1 year of work experience on Java and C# pr
   Personal website: https://lidiabaciu.com/ 
   
 <a href="https://lidiabaciu.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LidiaBaciu&count_private=true" />
-</a>
-<a href="https://lidiabaciu.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidiaBaciu&layout=compact" />
 </a>
