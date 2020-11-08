@@ -8,3 +8,5 @@ A passionate software developer with 1 year of work experience on Java and C# pr
   LinkedIn: https://www.linkedin.com/in/lidia-baciu/ <br>
   Personal website: https://lidiabaciu.com/ 
 
+![LidiaBaciu's github stats](https://github-readme-stats.vercel.app/api?username=LidiaBaciu&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LidiaBaciu&layout=compact)](https://github.com/LidiaBaciu/github-readme-stats)
