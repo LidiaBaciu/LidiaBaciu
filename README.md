@@ -11,4 +11,4 @@ A passionate software developer with 1 year of work experience on Java and C# pr
 <a href="https://lidiabaciu.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidiaBaciu&layout=compact" />
 </a>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LidiaBaciu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LidiaBaciu&repo=OnlineStore)](https://github.com/anuraghazra/github-readme-stats)
