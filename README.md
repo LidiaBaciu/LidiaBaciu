@@ -6,8 +6,8 @@
 </a>
 
 - 🌱 Currently Data Consultant @ <a href="https://dataroots.io" target="blank">Dataroots</a>
-- 🌍 Love traveling, reading and watching TV shows
-- 🇧🇪 Based in Belgium, from Romania. Lived a bit in Slovenia, Norway & France
+- 🤍 traveling, reading and watching TV shows
+- 🌍 Based in Belgium, from Romania. Lived a bit in Slovenia, Norway & France
 - 📫 How to reach me **lidia.baciu97@gmail.com**
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
